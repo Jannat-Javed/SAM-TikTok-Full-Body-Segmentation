@@ -2,7 +2,13 @@
 <img src="https://github.com/your-username/your-repo-name/blob/main/pics/dancing.gif" alt="Dancing GIF" width="600"/>
 In this project, we explore the use of the Segment Anything Model (SAM) by Facebook Research to perform instance segmentation on the Full-Body TikTok Dancing Dataset. The goal is to accurately segment dancing individuals in videos and images, enabling applications such as motion analysis, video editing, and augmented reality.
 
-<p align="center"> <div style="display: flex; justify-content: center;"> <img src="https://github.com/your-username/your-repo-name/blob/main/pics/segmentation_example_1.gif" alt="GIF 1" width="400" style="margin-right: 20px;"/> <img src="https://github.com/your-username/your-repo-name/blob/main/pics/segmentation_example_2.gif" alt="GIF 2" width="400"/> </div> </p>
+<p align="center">
+  <div style="display: flex; justify-content: center;">
+    <img src="https://github.com/Jannat-Javed/SAM-TikTok-Body-Segmentation/blob/main/masks/67_00180.png" alt="Image 1" width="250" style="margin-right: 10px;"/>
+    <img src="https://github.com/Jannat-Javed/SAM-TikTok-Body-Segmentation/blob/main/masks/734_00360.png" alt="Image 2" width="250" style="margin-right: 10px;"/>
+    <img src="https://github.com/Jannat-Javed/SAM-TikTok-Body-Segmentation/blob/main/masks/741_00120.png" alt="Image 3" width="250"/>
+  </div>
+</p>
 
 ## Features
 
