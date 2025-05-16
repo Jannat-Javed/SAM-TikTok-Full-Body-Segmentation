@@ -25,7 +25,7 @@ In this project, we explore the use of the Segment Anything Model (SAM) by Faceb
 
 This project uses the Full-Body TikTok Dancing Dataset from Kaggle. The dataset contains frames taken from videos of individuals dancing, along with corresponding COCO-format annotations for segmentation. I used the [TikTok Dances](https://www.kaggle.com/datasets/tapakah68/segmentation-full-body-tiktok-dancing-dataset) dataset
 
-**Dataset Structure**
+**Dataset**
 
 Images: Located in the test directory.
 
